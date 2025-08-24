@@ -2,7 +2,7 @@
 
 Retail Analytics Capstone
 
-Interactive retail analytics dashboard and analysis to uncover customer behavior, seasonal sales patterns, and product performance using multi-source transactional data.
+one linear: Interactive retail analytics dashboard and analysis to uncover customer behavior, seasonal sales patterns, and product performance using multi-source transactional data.
 
 Overview
 
